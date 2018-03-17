@@ -77,7 +77,7 @@ Deck.create({
       name: 'Print',
       type: 'Print',
       options: {
-        duration: 100 // FIX ME TO 1000
+        duration: 1000 // FIX ME TO 1000
       }
     }],
     order: [
@@ -137,7 +137,7 @@ oooooooooooo+++////:::ooo+'
       name: 'slide2-4-print',
       type: 'Print',
       options: {
-        duration: 1000 // FIX ME TO 4000
+        duration: 4000 // FIX ME TO 4000
       }
     }],
     order: [
@@ -208,7 +208,7 @@ ooooo+---------/+oooooooo+/---------oooooo-----------/ooooo:--:ooooo/---------/+
       name: 'slide2-5-print',
       type: 'Print',
       options: {
-        duration: 1000 // FIX ME TO 4000
+        duration: 4000 // FIX ME TO 4000
       }
     }],
     order: [
@@ -259,7 +259,7 @@ ooooo+---------/+oooooooo+/---------oooooo-----------/ooooo:--:ooooo/---------/+
       name: 'slide2-1-print',
       type: 'Print',
       options: {
-        duration: 1000 // FIX ME TO 4000
+        duration: 4000 // FIX ME TO 4000
       }
     }],
     order: [
@@ -301,7 +301,7 @@ ooooo+---------/+oooooooo+/---------oooooo-----------/ooooo:--:ooooo/---------/+
       name: 'slide2-2-print',
       type: 'Print',
       options: {
-        duration: 100 // FIX ME TO 4000
+        duration: 4000 // FIX ME TO 4000
       }
     }],
     order: [
@@ -356,7 +356,7 @@ ooooo+---------/+oooooooo+/---------oooooo-----------/ooooo:--:ooooo/---------/+
       name: 'slide2-3-print',
       type: 'Print',
       options: {
-        duration: 1000 // FIX ME TO 4000
+        duration: 4000 // FIX ME TO 4000
       }
     }],
     order: [
