@@ -1,0 +1,35 @@
+shapes:
+    - name: "slide1"
+      type: "FigText"
+      options:
+          text: "Hello, Kittik"
+      x: "center"
+      y: "middle"
+      foreground: "red"
+
+animations:
+    - name: "Local Animation"
+      type: "Print"
+      options:
+          duration: 2000
+
+shapes:
+    - name: "slide2"
+      type: "FigText"
+      options:
+          text: "What do I do ?"
+      x: "center"
+      y: "middle"
+      foreground: "red"
+
+animations:
+    - name: "slide2-ani"
+      type: "Print"
+      options:
+          easing: "outBounce"
+      duration: 2000
+
+slides:
+    - order:
+        - "slide1::Local Animation"
+        - "slide2::slide2-ani"

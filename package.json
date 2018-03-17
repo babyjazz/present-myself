@@ -1,0 +1,9 @@
+{
+  "name": "present_me",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "kittik": "^2.1.2"
+  }
+}
